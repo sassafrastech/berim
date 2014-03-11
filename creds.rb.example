@@ -1,0 +1,4 @@
+#creds.rb
+CLIENT_ID = ''
+CLIENT_SECRET = ''
+TOKEN = ''
