@@ -1,2 +1,115 @@
 # Logfile created on 2014-03-11 19:28:36 +0000 by logger.rb/36483
 I, [2014-03-11T19:28:43.184716 #10128]  INFO -- : PLESE WORK!
+I, [2014-03-11T16:14:53.142255 #11353]  INFO -- : tester
+I, [2014-03-11T16:15:00.375914 #11353]  INFO -- : jill PLESE WORK!
+I, [2014-03-11T16:15:00.376101 #11353]  INFO -- : HALLO!!
+I, [2014-03-11T16:15:46.031316 #11353]  INFO -- : jill PLESE WORK!
+I, [2014-03-11T16:15:46.031474 #11353]  INFO -- : HALLO!!
+I, [2014-03-11T16:16:07.647195 #11357]  INFO -- : jill PLESE WORK!
+I, [2014-03-11T16:16:07.647372 #11357]  INFO -- : HALLO!!
+I, [2014-03-11T16:18:42.196209 #11365]  INFO -- : jill PLESE WORK!
+I, [2014-03-11T16:18:42.196401 #11365]  INFO -- : HALLO!!
+I, [2014-03-11T16:19:59.161659 #11365]  INFO -- : tester
+I, [2014-03-12T10:45:57.326275 #12364]  INFO -- : jill PLESE WORK!
+I, [2014-03-12T10:45:57.327666 #12364]  INFO -- : HALLO!!
+I, [2014-03-12T10:50:00.717369 #12400]  INFO -- : received post request
+I, [2014-03-12T10:50:00.717558 #12400]  INFO -- : created token #<OAuth2::AccessToken:0x007fe810abb210>
+I, [2014-03-12T10:56:43.505924 #12412]  INFO -- : received post request
+I, [2014-03-12T10:56:43.506061 #12412]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T10:56:43.506195 #12412]  INFO -- : created token #<OAuth2::AccessToken:0x007fd67c8f0cf0>
+I, [2014-03-12T10:58:57.890184 #12449]  INFO -- : received post request
+I, [2014-03-12T10:58:57.890801 #12449]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T10:58:57.890971 #12449]  INFO -- : created token #<OAuth2::AccessToken:0x007fc21a107050>
+I, [2014-03-12T11:08:15.254114 #12449]  INFO -- : tester
+I, [2014-03-12T11:09:29.465298 #12449]  INFO -- : received post request
+I, [2014-03-12T11:09:29.465428 #12449]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:09:29.465549 #12449]  INFO -- : created token #<OAuth2::AccessToken:0x007fc21945c8f0>
+I, [2014-03-12T11:09:53.714437 #12477]  INFO -- : received post request
+I, [2014-03-12T11:09:53.714586 #12477]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:09:53.714828 #12477]  INFO -- : created token #<OAuth2::AccessToken:0x007fcae416d6e8 @client=#<OAuth2::Client:0x007fcae30ec468 @id="533485bd8717c02112b4d5c9ebdbfc626dcdabb292e7bf7b7b51c5d03d0106d8", @secret="c7e270eaa08fe324d5f7b00c3ab4a945dc3afddf1260956aaa3c5a23fbff3161", @site="https://berim.nationbuilder.com", @options={:authorize_url=>"/oauth/authorize", :token_url=>"/oauth/token", :token_method=>:post, :connection_opts=>{}, :connection_build=>nil, :max_redirects=>5, :raise_errors=>true}>, @token="4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88", @refresh_token=nil, @expires_in=nil, @expires_at=nil, @options={:mode=>:header, :header_format=>"Bearer %s", :param_name=>"access_token"}, @params={}>
+I, [2014-03-12T11:13:06.401590 #12487]  INFO -- : received post request
+I, [2014-03-12T11:13:06.401718 #12487]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:17:20.445030 #12506]  INFO -- : received post request
+I, [2014-03-12T11:17:20.445283 #12506]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:18:16.898756 #12512]  INFO -- : received post request
+I, [2014-03-12T11:18:16.898900 #12512]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:31:57.989358 #12545]  INFO -- : received post request
+I, [2014-03-12T11:31:57.991876 #12545]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:37:05.197765 #12622]  INFO -- : received post request
+I, [2014-03-12T11:37:05.197896 #12622]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:42:01.426063 #12642]  INFO -- : received post request
+I, [2014-03-12T11:42:01.426193 #12642]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:45:27.538019 #12653]  INFO -- : tester
+I, [2014-03-12T11:45:52.534615 #12658]  INFO -- : received post request
+I, [2014-03-12T11:45:52.534817 #12658]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:49:14.003001 #12663]  INFO -- : received post request
+I, [2014-03-12T11:49:14.003210 #12663]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:51:06.379854 #12663]  INFO -- : received post request
+I, [2014-03-12T11:51:06.380014 #12663]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:51:26.573230 #12669]  INFO -- : received post request
+I, [2014-03-12T11:51:26.574045 #12669]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:52:55.500540 #12669]  INFO -- : received post request
+I, [2014-03-12T11:52:55.500696 #12669]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:53:02.464313 #12675]  INFO -- : received post request
+I, [2014-03-12T11:53:02.464525 #12675]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:55:22.833333 #12682]  INFO -- : received post request
+I, [2014-03-12T11:55:22.835149 #12682]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:56:07.873056 #12685]  INFO -- : received post request
+I, [2014-03-12T11:56:07.873266 #12685]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T11:57:56.919194 #12691]  INFO -- : received post request
+I, [2014-03-12T11:57:56.919418 #12691]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T12:43:11.014742 #12785]  INFO -- : received post request
+I, [2014-03-12T12:43:11.016750 #12785]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T12:44:09.220236 #12790]  INFO -- : received post request
+I, [2014-03-12T12:44:09.220446 #12790]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T12:44:55.814800 #12793]  INFO -- : received post request
+I, [2014-03-12T12:44:55.815011 #12793]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T12:45:02.860778 #12793]  INFO -- : received post request
+I, [2014-03-12T12:45:02.860936 #12793]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T12:46:12.083783 #12802]  INFO -- : received post request
+I, [2014-03-12T12:46:12.084151 #12802]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T12:47:33.874054 #12810]  INFO -- : received post request
+I, [2014-03-12T12:47:33.874333 #12810]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T12:48:46.422179 #12814]  INFO -- : received post request
+I, [2014-03-12T12:48:46.422402 #12814]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T12:58:46.432970 #12838]  INFO -- : received post request
+I, [2014-03-12T12:58:46.433335 #12838]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T13:02:26.276080 #12850]  INFO -- : received post request
+I, [2014-03-12T13:02:26.276285 #12850]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T13:03:38.229807 #12855]  INFO -- : received post request
+I, [2014-03-12T13:03:38.230034 #12855]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T13:09:38.095347 #12863]  INFO -- : received post request
+I, [2014-03-12T13:09:38.095550 #12863]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T14:03:31.157386 #13035]  INFO -- : received post request
+I, [2014-03-12T14:03:31.160622 #13035]  INFO -- : token: 4234a663c4f95d234e67f3b6419806eef35243f3ebc38761f667649eae7cce88
+I, [2014-03-12T14:14:00.084783 #13048]  INFO -- : received post request
+I, [2014-03-12T14:14:51.214851 #13051]  INFO -- : received post request
+I, [2014-03-12T14:22:11.624426 #13088]  INFO -- : received post request
+I, [2014-03-12T14:24:04.526818 #13088]  INFO -- : received post request
+I, [2014-03-12T14:33:51.623226 #13088]  INFO -- : received post request
+I, [2014-03-12T14:35:30.921491 #13175]  INFO -- : received post request
+I, [2014-03-12T14:35:30.921679 #13175]  INFO -- : {"name"=>"Jilltest", "email"=>"jill@tjieslj.com", "letter"=>"lsdkfjsd test"}
+I, [2014-03-12T14:41:07.448183 #13186]  INFO -- : received post request
+I, [2014-03-12T14:41:56.845597 #13190]  INFO -- : received post request
+I, [2014-03-12T14:43:45.158374 #13193]  INFO -- : received post request
+I, [2014-03-12T14:44:09.105087 #13193]  INFO -- : received post request
+I, [2014-03-12T14:47:40.106321 #13204]  INFO -- : received post request
+I, [2014-03-12T14:47:40.106935 #13204]  INFO -- : {"blog_post":{"name":"Letter from here is a thing","status":"draft","content_before_flip":"From: here is a thing Email: tester@tet.com Letter: ksdfjkfjsksdj  kdsjkj kjkktesttttt","tags":["letter"]}}
+I, [2014-03-12T14:50:38.939603 #13213]  INFO -- : received post request
+I, [2014-03-12T14:50:38.944847 #13213]  INFO -- : {"blog_post":{"name":"Letter from here is a thing","status":"draft","content_before_flip":"From","tags":["letter"]}}
+I, [2014-03-12T14:51:26.833022 #13216]  INFO -- : received post request
+I, [2014-03-12T14:51:26.833684 #13216]  INFO -- : {"blog_post":{"name":"Letter from","slug":"testrandom","status":"draft","content_before_flip":"From","tags":["letter"]}}
+I, [2014-03-12T14:55:20.582182 #13222]  INFO -- : received post request
+I, [2014-03-12T14:55:20.582722 #13222]  INFO -- : {"blog_post":{"name":"blarf3322","slug":"testrandom","status":"published","content_before_flip":"From"}}
+I, [2014-03-12T14:56:43.390849 #13222]  INFO -- : received post request
+I, [2014-03-12T14:56:43.391194 #13222]  INFO -- : {"blog_post":{"name":"blarf3322","slug":"testrandom","status":"published","content_before_flip":"From"}}
+I, [2014-03-12T14:57:42.516963 #13228]  INFO -- : received post request
+I, [2014-03-12T14:57:42.517487 #13228]  INFO -- : {"blog_post":{"name":"New Letter from paramdd","slug":"testrandom2222","status":"drafted","content_before_flip":"From"}}
+I, [2014-03-12T15:00:54.851932 #13232]  INFO -- : received post request
+I, [2014-03-12T15:00:54.853632 #13232]  INFO -- : {"blog_post":{"name":"New Letter from ohjeez","status":"drafted","content_before_flip":"Name: ohjeez, Email: dkfjfdk@dsflkjdfkls.ccom, Letter: skdfjsdlkf"}}
+I, [2014-03-12T15:19:02.639021 #13294]  INFO -- : received post request
+I, [2014-03-12T15:20:42.926083 #13304]  INFO -- : received post request
+I, [2014-03-12T15:21:21.764315 #13309]  INFO -- : received post request
+I, [2014-03-12T15:24:12.223298 #13337]  INFO -- : received post request
+I, [2014-03-12T15:25:40.020968 #13352]  INFO -- : received post request
+I, [2014-03-12T15:25:40.021152 #13352]  INFO -- : {"name"=>"snow", "email"=>"snow@snow.com", "letter"=>"skdfjsdlkf", "datafile"=>"betsy_jill.jpg"}
