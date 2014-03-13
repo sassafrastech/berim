@@ -73,8 +73,8 @@ def upload_file(file, token)
   fdata = {
     "attachment" => {
       "filename" => params['datafile'][:filename],
-      "content_type" => "image/jpeg",
-      "updated_at" => "2013-06-06T10:15:02-07:00",
+      "content_type" => params['datafile'][:type],
+      "updated_at" => Time.now.to_s,
       "content" => encoded_file
     }
   }
